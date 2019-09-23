@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637021025845",
+    "firebase_url": "https://innerve-f3b39.firebaseio.com",
+    "project_id": "innerve-f3b39",
+    "storage_bucket": "innerve-f3b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637021025845:android:c629990b5c91f5e3eb637c",
+        "android_client_info": {
+          "package_name": "com.example.casino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637021025845-ugcf0as1h5n3art3j5pf5qs3tvjnfiq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.casino",
+            "certificate_hash": "c6e464738538bc276e6756ffce3d92176782d970"
+          }
+        },
+        {
+          "client_id": "637021025845-53e3oqeahrjj3ubpp0ng23l6itn5spa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFNvBnNBLqWhB791L4mYYNatxavv_e48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637021025845-53e3oqeahrjj3ubpp0ng23l6itn5spa9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

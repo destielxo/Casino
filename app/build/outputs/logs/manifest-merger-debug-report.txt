@@ -1,0 +1,242 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\badff90fe2211bcc484f87ee11c96528\jetified-firebase-auth-9.2.1\AndroidManifest.xml:16:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d7b8ae2cb1f8eb75d100a03e3801e3d4\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b488176b9accdd3dce49433c00ee7eb6\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\6fed25f645116790e5277541c970cca5\jetified-firebase-auth-common-9.2.1\AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-module:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\26a03ca8408bd48b5ade6f4eb4e6c078\jetified-firebase-auth-module-9.2.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d0ea567278b284cf30c778e2bbf771d1\jetified-play-services-base-9.2.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b0c524a760447509e272d9849b0fb6a0\jetified-firebase-common-9.2.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\3b1bf95d1898133a5c45a5a2e7ac8a63\jetified-play-services-tasks-9.2.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\492eb1caadcfd6e5ad792372a63119f7\jetified-play-services-basement-9.2.1\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b25a55d841e015695dfd670d6b3df87c\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\a87ee785ce37197112a33edb0b56829f\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\ed04daa309472f96d61a1f450889f260\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\120ab3a342524698c583cc96ee00f14f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\a2f0f7e1ab365ced2283700f32f2c9a0\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\16e0db7cf2e33965a7a19fea40556d1d\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\77361f935d3aee3c4eef845de7110a0a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\37bd7185d84d7bebf3b539954719481f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\2d823eb48c2d00fee580d8327ec03629\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\e53f66daae16ded4ba62fa8beec5bf02\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\56467acf9cff53b96eea95ed591ef1d8\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\c84126dd44ff038dbcf0f78ddc37d1ad\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\5177d89bb5f2badb0ef0cc678c859a8d\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\739a5740389fdf0091289c91a732a7f7\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\c59ffbd70fd53aeecdc8aee3c247e455\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\f3eba4a1d11b3b7984434d31b12c7903\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\490f0f4cf50f09b1c73a3ec5012db46b\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b7544a5e15721a18980cf91a2d80e47d\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\fb06e93bebbbd7b68bad231e329d0483\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\9ea19c943c2b2526bd75e44c7095864f\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\6662bc2e1be3d393d961771d0a6a47e1\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\9cc8711605043ee73748aa94e7f099f6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d64ac18eefce2a208decb15a68a50667\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\92cdbd35ab5e47367973e15b2a8ed7c4\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\e8c966fc7129b06950a24019d68a678c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\991f32a0c4823080812cb3ac762a5edf\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\54837b8f10638aa727396bf9d5d56bf6\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\266b4a53466143de9d7f9e5b4e02df62\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\943b15b3f10e147da89c25f229682f5d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\212f2001df50938df1534faabb918eb6\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\badff90fe2211bcc484f87ee11c96528\jetified-firebase-auth-9.2.1\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\badff90fe2211bcc484f87ee11c96528\jetified-firebase-auth-9.2.1\AndroidManifest.xml:20:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b488176b9accdd3dce49433c00ee7eb6\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b488176b9accdd3dce49433c00ee7eb6\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\6fed25f645116790e5277541c970cca5\jetified-firebase-auth-common-9.2.1\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\6fed25f645116790e5277541c970cca5\jetified-firebase-auth-common-9.2.1\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d0ea567278b284cf30c778e2bbf771d1\jetified-play-services-base-9.2.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d0ea567278b284cf30c778e2bbf771d1\jetified-play-services-base-9.2.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b0c524a760447509e272d9849b0fb6a0\jetified-firebase-common-9.2.1\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b0c524a760447509e272d9849b0fb6a0\jetified-firebase-common-9.2.1\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\3b1bf95d1898133a5c45a5a2e7ac8a63\jetified-play-services-tasks-9.2.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\3b1bf95d1898133a5c45a5a2e7ac8a63\jetified-play-services-tasks-9.2.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\492eb1caadcfd6e5ad792372a63119f7\jetified-play-services-basement-9.2.1\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\492eb1caadcfd6e5ad792372a63119f7\jetified-play-services-basement-9.2.1\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b7544a5e15721a18980cf91a2d80e47d\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b7544a5e15721a18980cf91a2d80e47d\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\9ea19c943c2b2526bd75e44c7095864f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\9ea19c943c2b2526bd75e44c7095864f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b7544a5e15721a18980cf91a2d80e47d\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.casino.MainActivity
+ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.casino.AdminActivity
+ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.example.casino.StudentActivity
+ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:23:19-50
+activity#com.example.casino.LoginActivity
+ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml:24:19-48
+uses-sdk
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\badff90fe2211bcc484f87ee11c96528\jetified-firebase-auth-9.2.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\badff90fe2211bcc484f87ee11c96528\jetified-firebase-auth-9.2.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d7b8ae2cb1f8eb75d100a03e3801e3d4\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d7b8ae2cb1f8eb75d100a03e3801e3d4\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b488176b9accdd3dce49433c00ee7eb6\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b488176b9accdd3dce49433c00ee7eb6\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\6fed25f645116790e5277541c970cca5\jetified-firebase-auth-common-9.2.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\6fed25f645116790e5277541c970cca5\jetified-firebase-auth-common-9.2.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\26a03ca8408bd48b5ade6f4eb4e6c078\jetified-firebase-auth-module-9.2.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\26a03ca8408bd48b5ade6f4eb4e6c078\jetified-firebase-auth-module-9.2.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d0ea567278b284cf30c778e2bbf771d1\jetified-play-services-base-9.2.1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d0ea567278b284cf30c778e2bbf771d1\jetified-play-services-base-9.2.1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b0c524a760447509e272d9849b0fb6a0\jetified-firebase-common-9.2.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b0c524a760447509e272d9849b0fb6a0\jetified-firebase-common-9.2.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\3b1bf95d1898133a5c45a5a2e7ac8a63\jetified-play-services-tasks-9.2.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\3b1bf95d1898133a5c45a5a2e7ac8a63\jetified-play-services-tasks-9.2.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\492eb1caadcfd6e5ad792372a63119f7\jetified-play-services-basement-9.2.1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\492eb1caadcfd6e5ad792372a63119f7\jetified-play-services-basement-9.2.1\AndroidManifest.xml:18:5-42
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b25a55d841e015695dfd670d6b3df87c\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b25a55d841e015695dfd670d6b3df87c\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\a87ee785ce37197112a33edb0b56829f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\a87ee785ce37197112a33edb0b56829f\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\ed04daa309472f96d61a1f450889f260\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\ed04daa309472f96d61a1f450889f260\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\120ab3a342524698c583cc96ee00f14f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\120ab3a342524698c583cc96ee00f14f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\a2f0f7e1ab365ced2283700f32f2c9a0\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\a2f0f7e1ab365ced2283700f32f2c9a0\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\16e0db7cf2e33965a7a19fea40556d1d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\16e0db7cf2e33965a7a19fea40556d1d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\77361f935d3aee3c4eef845de7110a0a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\77361f935d3aee3c4eef845de7110a0a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\37bd7185d84d7bebf3b539954719481f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\37bd7185d84d7bebf3b539954719481f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\2d823eb48c2d00fee580d8327ec03629\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\2d823eb48c2d00fee580d8327ec03629\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\e53f66daae16ded4ba62fa8beec5bf02\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\e53f66daae16ded4ba62fa8beec5bf02\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\56467acf9cff53b96eea95ed591ef1d8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\56467acf9cff53b96eea95ed591ef1d8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\c84126dd44ff038dbcf0f78ddc37d1ad\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\c84126dd44ff038dbcf0f78ddc37d1ad\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\5177d89bb5f2badb0ef0cc678c859a8d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\5177d89bb5f2badb0ef0cc678c859a8d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\739a5740389fdf0091289c91a732a7f7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\739a5740389fdf0091289c91a732a7f7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\c59ffbd70fd53aeecdc8aee3c247e455\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\c59ffbd70fd53aeecdc8aee3c247e455\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\f3eba4a1d11b3b7984434d31b12c7903\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\f3eba4a1d11b3b7984434d31b12c7903\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\490f0f4cf50f09b1c73a3ec5012db46b\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\490f0f4cf50f09b1c73a3ec5012db46b\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b7544a5e15721a18980cf91a2d80e47d\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b7544a5e15721a18980cf91a2d80e47d\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\fb06e93bebbbd7b68bad231e329d0483\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\fb06e93bebbbd7b68bad231e329d0483\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\9ea19c943c2b2526bd75e44c7095864f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\9ea19c943c2b2526bd75e44c7095864f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\6662bc2e1be3d393d961771d0a6a47e1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\6662bc2e1be3d393d961771d0a6a47e1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\9cc8711605043ee73748aa94e7f099f6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\9cc8711605043ee73748aa94e7f099f6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d64ac18eefce2a208decb15a68a50667\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d64ac18eefce2a208decb15a68a50667\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\92cdbd35ab5e47367973e15b2a8ed7c4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\92cdbd35ab5e47367973e15b2a8ed7c4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\e8c966fc7129b06950a24019d68a678c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\e8c966fc7129b06950a24019d68a678c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\991f32a0c4823080812cb3ac762a5edf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\991f32a0c4823080812cb3ac762a5edf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\54837b8f10638aa727396bf9d5d56bf6\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\54837b8f10638aa727396bf9d5d56bf6\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\266b4a53466143de9d7f9e5b4e02df62\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\266b4a53466143de9d7f9e5b4e02df62\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\943b15b3f10e147da89c25f229682f5d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\943b15b3f10e147da89c25f229682f5d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\212f2001df50938df1534faabb918eb6\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\212f2001df50938df1534faabb918eb6\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Drishti\AndroidStudioProjects\Casino\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d0ea567278b284cf30c778e2bbf771d1\jetified-play-services-base-9.2.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d0ea567278b284cf30c778e2bbf771d1\jetified-play-services-base-9.2.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d0ea567278b284cf30c778e2bbf771d1\jetified-play-services-base-9.2.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\d0ea567278b284cf30c778e2bbf771d1\jetified-play-services-base-9.2.1\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b0c524a760447509e272d9849b0fb6a0\jetified-firebase-common-9.2.1\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b0c524a760447509e272d9849b0fb6a0\jetified-firebase-common-9.2.1\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b0c524a760447509e272d9849b0fb6a0\jetified-firebase-common-9.2.1\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b0c524a760447509e272d9849b0fb6a0\jetified-firebase-common-9.2.1\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\b0c524a760447509e272d9849b0fb6a0\jetified-firebase-common-9.2.1\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\492eb1caadcfd6e5ad792372a63119f7\jetified-play-services-basement-9.2.1\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\492eb1caadcfd6e5ad792372a63119f7\jetified-play-services-basement-9.2.1\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Drishti\.gradle\caches\transforms-2\files-2.1\492eb1caadcfd6e5ad792372a63119f7\jetified-play-services-basement-9.2.1\AndroidManifest.xml:22:13-58

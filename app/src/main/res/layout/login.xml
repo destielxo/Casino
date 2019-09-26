@@ -17,7 +17,7 @@
         android:layout_marginStart="110dp"
         android:layout_marginLeft="110dp"
         android:layout_marginTop="214dp"
-        android:text="@string/signin"
+        android:text="LOGIN"
         tools:layout_editor_absoluteX="176dp"
         tools:layout_editor_absoluteY="371dp" />
 

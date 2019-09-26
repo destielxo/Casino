@@ -31,6 +31,13 @@
         <activity android:name="com.example.casino.AdminActivity" />
         <activity android:name="com.example.casino.StudentActivity" />
         <activity android:name="com.example.casino.LoginActivity" />
+        <activity android:name="com.example.casino.Aptituderules" />
+        <activity android:name="com.example.casino.Crosswordrules" />
+        <activity android:name="com.example.casino.Jengarules" />
+        <activity android:name="com.example.casino.Spizrules" />
+        <activity android:name="com.example.casino.Tambolarules" />
+        <activity android:name="com.example.casino.Teenrules" />
+        <activity android:name="com.example.casino.Wheelrules" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

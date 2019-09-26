@@ -19,6 +19,9 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+    private static int SPLASH_TIME_OUT = 4000;
+
+
     private EditText editTextEmail;
     private EditText editTextPassword;
     private Button buttonSignup;
